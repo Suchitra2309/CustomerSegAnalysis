@@ -19,6 +19,6 @@ This project aims to analyze customer data and segment them into distinct groups
 
 4. scikit-learn
 
-5.Matplotlib
+5. Matplotlib
 
-6.Seaborn
+6. Seaborn
